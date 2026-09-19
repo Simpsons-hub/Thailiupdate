@@ -1,7 +1,7 @@
 {
-  "version": "0.5.0",
-  "build": 5,
-  "title": "THAILI 0.5.0",
+  "version": "0.6.0",
+  "build": 6,
+  "title": "THAILI 0.6.0",
   "notes": "New THAILI test build is available.",
   "download_page": "https://github.com/Simpsons-hub/Thailiupdate/releases/download/apk-latest/thaili.apk",
   "mandatory": false
