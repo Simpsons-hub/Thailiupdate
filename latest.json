@@ -2,7 +2,7 @@
   "version": "0.3.0",
   "build": 3,
   "title": "THAILI 0.3.0",
-  "notes": "Russian and Thai UI plus deeper task workflows.",
-  "download_page": "https://github.com/Simpsons-hub/Thailiupdate/releases/latest",
+  "notes": "New THAILI test build is available.",
+  "download_page": "https://github.com/Simpsons-hub/Thailiupdate/releases/download/apk-latest/thaili.apk",
   "mandatory": false
 }
